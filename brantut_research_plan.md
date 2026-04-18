@@ -16,7 +16,7 @@ Produce an executive summary of Nicolas Brantut's research, with primary emphasi
 - [x] De-duplicate records by DOI and normalize metadata
 - [x] Screen titles and abstracts for relevance to the target themes
 - [x] Prioritize a core reading list focused on fault stability, induced seismicity, and modelling
-- [ ] Retrieve accessible full texts or abstracts for the prioritized papers
+- [x] Retrieve accessible full texts or abstracts for the prioritized papers
 - [ ] Read the full relevant papers in layers:
   - [ ] Abstracts, introductions, conclusions
   - [ ] Methods, figures, results, discussion for core papers
@@ -30,10 +30,10 @@ Produce an executive summary of Nicolas Brantut's research, with primary emphasi
   - [ ] Relevance to induced seismicity
   - [ ] How lab and model work inform each other
   - [ ] Limits, assumptions, and open questions
-- [ ] Group findings into thematic clusters
-- [ ] Trace how the research evolves over time
-- [ ] Write an executive summary in plain language
-- [ ] Build a paper summary table for reference
+- [x] Group findings into thematic clusters
+- [x] Trace how the research evolves over time
+- [x] Write an executive summary in plain language
+- [x] Build a paper summary table for reference
 - [ ] Separate direct findings from higher-level synthesis and inference
 - [ ] Deliver a final brief with clear takeaways and unresolved questions
 

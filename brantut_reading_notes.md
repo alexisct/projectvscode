@@ -113,6 +113,39 @@ Why it matters for the overall review:
 
 - This is a strong example of Brantut’s lab-to-model loop: measure evolving structure in the lab, then use those observations to constrain rupture models.
 
+### 2020 - Dilatancy-Induced Fluid Pressure Drop During Dynamic Rupture
+
+- DOI: `10.1016/j.epsl.2020.116179`
+- Type: laboratory experiment with direct in-situ pore-pressure measurements
+- Relevance: very high
+- Themes: `fault-stability`, `fluids`, `lab-model-iteration`, `rupture`
+
+Main question:
+
+- Can coseismic dilatancy directly produce strong pore-pressure drops during rupture and slip?
+
+Approach:
+
+- Dynamic rupture experiments in thermally cracked, fluid-saturated Westerly granite
+- Direct on-fault and off-fault pore-pressure measurements
+- Supporting wave-speed and microstructural observations
+
+Main findings:
+
+- During the main rupture, on-fault pore pressure dropped essentially to zero.
+- Subsequent stick-slip events also produced rapid pressure drops.
+- The observations support a direct dilatancy-driven "seismic suction pump" mechanism.
+- The paper argues that dilatancy may counteract thermal pressurization in freshly fractured rock.
+
+Implications:
+
+- This is one of the clearest direct demonstrations that fluids can strengthen and transiently stabilize slipping faults during rupture rather than simply weaken them.
+- It also provides a strong bridge between field ideas about coseismic fluid-pressure drops and measurable laboratory physics.
+
+Why it matters for the overall review:
+
+- This paper is foundational for the fluid-fault branch of Brantut’s work and underpins several later papers on rupture stabilization, afterslip, and off-fault pressure changes.
+
 ### 2021 - Fault Friction During Simulated Seismic Slip Pulses
 
 - DOI: `10.1029/2021JB022149`
@@ -179,6 +212,39 @@ Implications:
 Why it matters for the overall review:
 
 - This paper is central to Brantut’s modelling contribution and to the lab-informed interpretation of slow rupture phenomena.
+
+### 2021 - Dilatancy Stabilises Shear Failure in Rock
+
+- DOI: `10.1016/j.epsl.2021.117174`
+- Type: laboratory experiment plus spring-slider modelling and inversion
+- Relevance: very high
+- Themes: `fault-stability`, `fluids`, `lab-model-iteration`, `modelling`
+
+Main question:
+
+- Can dilatancy strengthening stabilize dynamic rupture and fault slip in fluid-bearing rock?
+
+Approach:
+
+- Laboratory rock-fracture experiments with direct in-situ pore-pressure measurements
+- Interpretation with a spring-slider model coupling slip weakening, dilation, and fluid diffusion
+- Inverse estimation of dilation rate and storage parameters
+
+Main findings:
+
+- Dynamic rupture and fault slip can become quasi-static because pore-pressure drops strengthen the fault.
+- At lower pore-fluid pressure, this stabilization can fail when pressure approaches zero and the fluid vaporizes, allowing dynamic shear failure again.
+- Stable rupture is followed by prolonged slip driven by pore-pressure recharge.
+- The model predicts depth conditions under which dilatancy strengthening or vaporization should dominate.
+
+Implications:
+
+- Brantut’s work on fault stability is not only about whether rupture starts, but also about whether it remains dynamic.
+- The paper links rupture style to the competition between dilation, drainage, and fluid phase behavior.
+
+Why it matters for the overall review:
+
+- This paper is especially valuable because it turns the qualitative idea of dilatancy stabilization into a quantified and testable mechanics framework.
 
 ### 2023 - Rupture and Afterslip Controlled by Spontaneous Local Fluid Flow in Crustal Rock
 
@@ -315,6 +381,67 @@ Why it matters for the overall review:
 
 - It connects several strands in the broader Brantut corpus: injection rate effects, fault stress state, fluid-pressure heterogeneity, and the use of mechanics models to explain propagation regimes.
 
+### 2025 - Analysis of Stress in the Cohesive Zone, Dissipation and Fracture Energy During Shear Rupture Experiments
+
+- DOI: `10.1029/2024GL113972`
+- Type: inverse analysis of laboratory rupture data
+- Relevance: high
+- Themes: `rupture`, `modelling`, `fault-stability`
+
+Main question:
+
+- How complex is stress evolution inside the cohesive zone of a propagating shear rupture, and how does that affect energy accounting?
+
+Approach:
+
+- Inversion of high-resolution laboratory slip-rate profiles
+- Reconstruction of shear-stress evolution within the cohesive zone
+- Comparison between total breakdown work and fracture energy
+
+Main findings:
+
+- Fast ruptures are mostly compatible with simple monotonic slip weakening.
+- Slow ruptures show more complex, non-monotonic stress evolution, including restrengthening.
+- Despite that complexity, the portion of breakdown work tied to the initial weakening remains consistent with independently inferred fracture energy.
+
+Implications:
+
+- Brantut’s more recent modelling work is increasingly focused on how much simplified fracture-mechanics views remain valid once near-tip physics becomes complicated.
+- The answer here is subtle: energy-balance ideas still work, but local slip-rate behavior can be richer than simple constitutive models imply.
+
+Why it matters for the overall review:
+
+- This paper updates the rupture-modelling branch of the research program and reinforces the distinction Brantut often makes between global energetic adequacy and local mechanical complexity.
+
+### 2025 - Shear Localisation Controls the Dynamics of Earthquakes
+
+- DOI: `10.1038/s41467-024-55363-y`
+- Type: numerical modelling across scales
+- Relevance: high
+- Themes: `modelling`, `rupture`, `lab-model-iteration`
+
+Main question:
+
+- How does small-scale shear localization shape large-scale rupture dynamics?
+
+Approach:
+
+- Dual-scale numerical approach coupling sub-millimeter inner fault processes to kilometer-scale elastodynamics
+
+Main findings:
+
+- Sudden localization of shear strain leads to earthquake ruptures that behave like classical cracks with nearly constant fracture energy.
+- The work implies that rupture-scale observables can emerge from internal localization processes rather than being imposed as simple constitutive assumptions from the start.
+
+Implications:
+
+- This paper extends Brantut’s modelling program toward multiscale integration.
+- It fits his long-running interest in using physically grounded micro- or meso-scale mechanisms to explain rupture-scale behavior.
+
+Why it matters for the overall review:
+
+- It shows the latest direction of travel in the modelling branch: tighter coupling between inner fault-zone physics and macroscopic rupture dynamics.
+
 ## Cross-Paper Themes Emerging So Far
 
 ### 1. Fault Stability Is Dynamic and Hydro-Mechanical
@@ -338,6 +465,13 @@ A strong recurring theme is temporal reversal:
 
 This is a more nuanced picture than “higher pressure means more slip.”
 
+Brantut’s work repeatedly argues that the same fault zone can pass through multiple hydraulic-mechanical states within one event sequence:
+
+- dilatancy-induced pressure drop and strengthening during rupture initiation
+- possible vaporization or degassing if pressure falls far enough
+- post-rupture recharge and renewed slip or afterslip
+- off-fault pressure rise that may encourage neighboring instabilities
+
 ### 3. Injection-Induced Seismicity Is Sensitive to Spatial Heterogeneity
 
 The induced-seismicity-related papers consistently suggest that:
@@ -355,6 +489,12 @@ Brantut’s modelling papers are tightly linked to measurable physical mechanism
 - dilatancy toughening
 - thermal versus viscous controls on friction
 - energetic consequences of off-fault damage
+
+In the newer papers, this extends further to:
+
+- cohesive-zone stress inversion
+- multiscale localization models
+- dimensionless controls on the relation between pressure-front and slip-front propagation
 
 The modelling is usually there to interpret, generalize, or upscale laboratory observations.
 
