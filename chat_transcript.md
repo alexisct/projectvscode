@@ -256,3 +256,81 @@ One small note: if by “description” you meant the GitHub repository descript
 ## User
 
 can you update the contents of this chat verbatim in the chat_transcript.md file fro where it left off?
+
+## Assistant
+
+I updated [chat_transcript.md](/Users/ac2122/Desktop/projectvscode/chat_transcript.md) from the previous cutoff through your latest request.
+
+I kept the same format as the existing file: visible `User` and `Assistant` turns only, not the hidden progress/tool chatter. If you want, I can also commit and push this transcript update.
+
+## User
+
+Yes please can you commit and push this transcript update?
+
+## Assistant
+
+The transcript update is committed and pushed.
+
+Current state:
+- commit: `43c3fc0 Update chat transcript`
+- branch: `main`
+- remote: `origin/main` updated successfully
+
+If you want, I can keep the transcript maintained as we continue, or leave it for manual updates only.
+
+## User
+
+Can you keep going next with the remaining high-priority Brantut papers and then turn your notes into the executive summary that I asked for?
+
+## Assistant
+
+I kept going through the remaining high-priority papers and turned the result into [brantut_executive_summary.md](/Users/ac2122/Desktop/projectvscode/brantut_executive_summary.md). I also expanded [brantut_reading_notes.md](/Users/ac2122/Desktop/projectvscode/brantut_reading_notes.md) and updated the checklist in [brantut_research_plan.md](/Users/ac2122/Desktop/projectvscode/brantut_research_plan.md).
+
+Executive summary, in short: Brantut’s core contribution is showing that fault stability is a coupled hydro-thermo-mechanical problem, not just a friction problem. In his work, faults are stabilized and destabilized by competing processes: dilatancy lowers pore pressure and can temporarily strengthen or slow rupture, while recharge, overpressure, and thermal weakening can later promote renewed slip. That same logic carries into his induced-seismicity work, where injection rate, stress state, and spatially heterogeneous pore pressure matter more than any single “critical pressure” threshold.
+
+On induced seismicity specifically, the most important takeaway is that he treats injection-triggered slip as a propagation problem as much as a pressure problem. His papers suggest that aseismic slip can lag or outrun the pressure front depending on injection rate and initial stress, which helps explain why seismicity can migrate or persist after injection. On modelling, his style is unusually strong because the models are tightly constrained by experiments: fracture mechanics, elastodynamic rupture models, cohesive-zone analysis, and hydro-mechanical models are used to test whether the mechanisms seen in the lab can actually produce the rupture histories and fault behavior we infer in nature. The lab-model loop you flagged really does look like the defining feature of the whole research program.
+
+Main sources I used:
+- GFZ profile: https://www.gfz.de/en/staff/nicolas.brantut/sec42
+- Brantut publication page: https://www.normalesup.org/~brantut/work.html
+- 2018 fluid injection paper: https://www.normalesup.org/~brantut/files/2018GL080470.pdf
+- 2019 pulse stability paper: https://www.normalesup.org/~brantut/files/2019JB017926.pdf
+- 2019 rupture energetics paper: https://www.normalesup.org/~brantut/files/2019GL083040.pdf
+- 2020 dilatancy-pressure-drop paper: https://www.normalesup.org/~brantut/files/Brantut_EPSL_2020.pdf
+- 2021 dilatancy stabilisation paper: https://www.normalesup.org/~brantut/files/Aben_Brantut_EPSL_2021
+- 2021 slip-pulse friction paper: https://www.normalesup.org/~brantut/files/2021JB022149.pdf
+- 2021 dilatancy toughening paper: https://www.normalesup.org/~brantut/files/2021JB022239.pdf
+- 2023 rupture/afterslip paper: https://www.normalesup.org/~brantut/files/2023JB027534.pdf
+- 2024 on-/off-fault pore pressure paper: https://www.normalesup.org/~brantut/files/2024JB028829
+- 2025 cohesive-zone paper: https://www.normalesup.org/~brantut/files/2024GL113972.pdf
+- 2025 aseismic slip-front preprint: https://www.researchsquare.com/article/rs-6812099/v1
+
+If you want, I can next tighten the executive summary into a shorter 1-page briefing, or commit and push these research updates to the repo.
+
+## User
+
+can you commit and push the updates?
+
+## Assistant
+
+The research updates are committed and pushed.
+
+Current state:
+- commit: `819433a Add Brantut executive summary and notes`
+- branch: `main`
+- remote: `origin/main` updated successfully
+
+That push includes:
+- [brantut_executive_summary.md](/Users/ac2122/Desktop/projectvscode/brantut_executive_summary.md)
+- updates to [brantut_reading_notes.md](/Users/ac2122/Desktop/projectvscode/brantut_reading_notes.md)
+- updates to [brantut_research_plan.md](/Users/ac2122/Desktop/projectvscode/brantut_research_plan.md)
+
+If you want, I can next produce a shorter polished 1-page briefing from the executive summary, or update `chat_transcript.md` again to include this latest stretch of work.
+
+## User
+
+can you update chat_transcript.md again to include this latest stretch of work, and make a new blank questions.md file?
+
+## User
+
+can you update chat_transcript.md again to include this latest stretch of work?
